@@ -1,0 +1,22 @@
+.profileBG {
+  /* background: url("https://marketplace.canva.com/EADan4b2aiE/1/0/800w/canva-photo-of-triangle-shape-digital-wallpaper-KOZl2W4wCi8.jpg"); */
+  background-size: cover;
+
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: relative;
+}
+
+.userCard {
+  width: 100%;
+  height: 15rem;
+  transition: 0.1s;
+  cursor: pointer;
+}
+
+.userCard:hover {
+  transform: scale(1.02);
+}
